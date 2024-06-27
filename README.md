@@ -33,3 +33,5 @@ npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
+
+[![Watch the video](https://www.loom.com/share/adcbe25e898c46d3bd679c0a81f39ca6?sid=480692b9-67d3-4e6e-919d-fc6c7b14702c)]

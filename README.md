@@ -1,5 +1,5 @@
 # Video Explanation
-[![Loom Video](assets/loom-thumbnail.png)](https://www.loom.com/share/adcbe25e898c46d3bd679c0a81f39ca6?sid=379047d5-cc39-4f04-af4e-1cb3f434082d)
+[![Loom Video](assets/thumbnail.png)](https://www.loom.com/share/adcbe25e898c46d3bd679c0a81f39ca6?sid=379047d5-cc39-4f04-af4e-1cb3f434082d)
 
 # ChatGPT Writer Take-Home Coding Assignment
 

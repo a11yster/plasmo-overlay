@@ -20,7 +20,6 @@ export const getStyle = () => {
 }
 
 export const getOverlayAnchor: PlasmoGetOverlayAnchor = async () =>
-  // document.querySelector(".msg-form__contenteditable[data-artdeco-is-focused='true']")
 document.querySelector(".msg-form__contenteditable[data-artdeco-is-focused='true']")
 
 //override the static OverlayCSUIContainer to position the anchor-element at the bottom right of the root element

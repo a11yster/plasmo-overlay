@@ -1,3 +1,6 @@
+# Video Explanation
+[![Loom Video](assets/loom-thumbnail.png)](https://www.loom.com/share/adcbe25e898c46d3bd679c0a81f39ca6?sid=379047d5-cc39-4f04-af4e-1cb3f434082d)
+
 # ChatGPT Writer Take-Home Coding Assignment
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
@@ -34,4 +37,3 @@ npm run build
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
-[![Watch the video](https://www.loom.com/share/adcbe25e898c46d3bd679c0a81f39ca6?sid=480692b9-67d3-4e6e-919d-fc6c7b14702c)]
